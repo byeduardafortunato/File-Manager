@@ -1,3 +1,8 @@
+# Ignorar o arquivo de lock 
+package-lock.json
+
+# Ignorar node_modules 
 node_modules/
-dist/
-.env
+
+# Ignorar logs de debug do npm
+npm-debug.log
